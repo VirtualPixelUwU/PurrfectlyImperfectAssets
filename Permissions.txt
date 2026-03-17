@@ -1,7 +1,6 @@
 ### Level 5 - Admin
 VirtualPixel
 Dreivanz
-[1] Local Player
 
 ### Level 4 - Staff
 DrakoDarker
