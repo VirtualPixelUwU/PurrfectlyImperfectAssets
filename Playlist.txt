@@ -1,0 +1,29 @@
+{
+  "header": "Purrfect DJs",
+  "entries": [
+    {
+      "mainUrl": "rtspt://stream.vrcdn.live/live/virtualpixel",
+      "alternateUrl": "https://stream.vrcdn.live/live/virtualpixel.live.ts",
+      "title": "VirtualPixel",
+      "description": null,
+      "tags": "",
+      "image": ""
+    },
+    {
+      "mainUrl": "rtspt://stream.vrcdn.live/live/lexa",
+      "alternateUrl": "https://stream.vrcdn.live/live/lexa.live.ts",
+      "title": "Lexa",
+      "description": null,
+      "tags": null,
+      "image": ""
+    },
+    {
+      "mainUrl": "rtspt://stream.vrcdn.live/live/mcbadassinc",
+      "alternateUrl": "https://stream.vrcdn.live/live/mcbadassinc.live.ts",
+      "title": "John McBadass",
+      "description": null,
+      "tags": "",
+      "image": ""
+    }
+  ]
+}
