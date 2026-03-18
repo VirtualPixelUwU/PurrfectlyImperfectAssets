@@ -26,12 +26,10 @@ Burgerbeast
 Mister Chop
 BattleKau
 Paiety
+Steele~
 
 ### Level 2 - Meowtastic Supporter
-Test
 
 ### Level 1 -  Big Supporter
-Nya Meowchi
 
 ### Level 0 - Supporter
-Test2
