@@ -18,12 +18,12 @@
       "image": ""
     },
     {
-      "title": "John McBadass",
       "mainUrl": "rtspt://stream.vrcdn.live/live/mcbadassinc",
       "alternateUrl": "https://stream.vrcdn.live/live/mcbadassinc.live.ts",
+      "title": "John McBadass",
       "description": null,
       "tags": "",
       "image": ""
-    },
+    }
   ]
 }
