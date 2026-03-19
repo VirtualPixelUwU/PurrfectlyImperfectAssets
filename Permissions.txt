@@ -42,5 +42,4 @@ Nya
 [5] Remote Player
 
 ### Level 0 - Supporter
-Zeetegel
 [6] Remote Player
