@@ -1,7 +1,6 @@
 ### Level 5 - Admin
 VirtualPixel
 Dreivanz
-[1] Local Player
 
 ### Level 4 - Staff
 DrakoDarker
@@ -16,7 +15,6 @@ WilSavingThrow
 Muffin Puffin
 Blake Viridian
 Khalypsö
-[2] Remote Player
 
 ### Level 3 - DJ
 Ru
@@ -28,18 +26,9 @@ Mister Chop
 BattleKau
 Paiety
 Steele~
-[3] Remote Player
 
 ### Level 2 - Meowtastic Supporter
-Test
-Meow
-UwU
-[4] Remote Player
 
 ### Level 1 -  Big Supporter
-Test2
-Nya
-[5] Remote Player
 
 ### Level 0 - Supporter
-[6] Remote Player
