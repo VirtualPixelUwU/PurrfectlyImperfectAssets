@@ -16,6 +16,7 @@ WilSavingThrow
 Muffin Puffin
 Blake Viridian
 Khalypsö
+Zeetegel
 
 ### Level 3 - DJ
 Ru
@@ -34,3 +35,4 @@ Steele~
 
 ### Level 0 - Supporter
 Khalypsö
+Zeetegel
