@@ -1,4 +1,4 @@
---- FOOD & DRINK ---
+--- Food & Drink ---
 
 1.   What is your ultimate comfort food?
 2.   If you could only eat one dish for the rest of your life, what would it be?
@@ -31,7 +31,7 @@
 29.  What is the best food to eat while watching a movie?
 30.  If you opened a restaurant, what would it serve?
 
---- MUSIC ---
+--- Music ---
 
 31.  What song do you always skip but secretly know all the words to?
 32.  What song have you had on loop this week?
@@ -54,7 +54,7 @@
 49.  What song would you pick for a dance competition?
 50.  What is a song that always makes you emotional?
 
---- GAMES & ENTERTAINMENT ---
+--- Games & Entertainment ---
 
 51.  What is the most disappointing game you ever bought?
 52.  What is your all-time favourite video game?
@@ -82,7 +82,7 @@
 74.  What is your favourite type of YouTube rabbit hole?
 75.  What is your most-used streaming service?
 
---- PERSONALITY & HABITS ---
+--- Personality & Habits ---
 
 76.  Are you a morning person or a night owl?
 77.  Do you plan everything ahead or go with the flow?
@@ -110,7 +110,7 @@
 99.  What is your go-to way to kill 10 minutes?
 100. What is your most-used app these days?
 
---- FRIENDS & SOCIAL ---
+--- Friends & Social ---
 
 101. What is the most important quality in a friend?
 102. What is something a friend did that you'll never forget?
@@ -128,7 +128,7 @@
 114. What is the best trip or outing you've been on with friends?
 115. What is your favourite thing to do on a night in with people?
 
---- LIFE & EXPERIENCES ---
+--- Life & Experiences ---
 
 116. Where are you right now in life?
 117. What is your current short-term goal?
@@ -156,7 +156,7 @@
 139. What is something you've recently started doing for the first time?
 140. If you could retire anywhere, where would it be?
 
---- HYPOTHETICALS & FUN ---
+--- Hypotechnicals & Fun ---
 
 141. If you could instantly master one hobby, what would it be?
 142. If you could instantly become fluent in any language, what would it be?
@@ -189,7 +189,7 @@
 169. If your house was burning down and you could only grab three things, what would they be?
 170. If you could only listen to one podcast forever, what would it be?
 
---- CHILDHOOD & NOSTALGIA ---
+--- Childhood & Nostalgia ---
 
 171. What is something you were obsessed with as a kid?
 172. What is the first game you remember playing?
@@ -207,7 +207,7 @@
 184. What game did you play outside as a kid?
 185. What is your earliest happy memory?
 
---- RANDOM & WEIRD ---
+--- Random & Weird ---
 
 186. What is a random fear that genuinely makes no sense?
 187. What is your "this is so dumb but I love it" thing?
@@ -235,7 +235,7 @@
 209. How many tabs do you have open right now?
 210. What is the last photo you took on your phone?
 
---- SELF & IDENTITY ---
+--- Self & Identity ---
 
 211. How would you describe yourself to a stranger?
 212. What is your biggest addiction?
@@ -258,7 +258,7 @@
 229. What is a weird thing that brings you joy?
 230. What is the last thing that made you laugh out loud?
 
---- TECH & ONLINE LIFE ---
+--- Tech & Online life ---
 
 231. What is your most-used app and what does that say about you?
 232. What is your go-to YouTube or TikTok spiral?
@@ -276,7 +276,7 @@
 244. What is a tech thing you still refuse to switch to?
 245. What is the last thing you googled?
 
---- TRAVEL & PLACES ---
+--- Travel & places ---
 
 246. What is the most beautiful place you've ever been?
 247. What is a place you've always wanted to visit?
@@ -289,7 +289,7 @@
 254. What is one place you'd go back to immediately if you could?
 255. What is something you always do in a new city?
 
---- QUICK FIRE ---
+--- Quick fire ---
 
 256. Morning shower or evening shower?
 257. Book or movie version?
@@ -312,7 +312,7 @@
 274. Mess that makes sense or perfectly organised?
 275. Walk or drive?
 
---- MORE ICEBREAKERS ---
+--- General IceBreakers ---
 
 276. What is a show or book you'd recommend to absolutely everyone?
 277. Share two truths and a lie.
