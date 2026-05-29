@@ -1,7 +1,6 @@
 ### Level 5 - Admin
 VirtualPixel
 Dreivanz
-Zeetegel
 [1] Local Player
 
 ### Level 4 - Staff
